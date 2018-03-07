@@ -1,0 +1,19 @@
+
+h1 > a {color: red;}
+nav > a{color: lightgrey}
+article > h3{color: lightgrey}
+h2 a{color:black}
+article p section {color:lightgrey}
+article p::first-letter{
+  color:lightgrey;
+  font-size: 8rem;
+}
+
+
+
+
+
+
+h4 a{color:red}
+footer nav a{color :red}
+footer p{color: lightgrey}
